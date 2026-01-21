@@ -1,0 +1,25 @@
+Exercise 1.3 – Operators & Functions in Python
+
+Key Learnings:
+
+1. Scripts vs Shell
+Scripts allow reusable execution and avoid variable persistence issues found in interactive shells.
+
+2. Functions
+Functions help organize logic, collect user input, and return values that can be reused in the program.
+
+3. Loops
+For loops with range() are used when the number of iterations is known in advance.
+Nested loops are useful when working with structured data like dictionaries containing lists.
+
+4. Control Flow
+if-elif-else statements help classify data and control program flow using conditions.
+
+5. Data Structures
+Dictionaries store structured data using key-value pairs.
+Lists store collections that can grow dynamically.
+
+6. Difficulty Logic
+Business logic such as difficulty levels should be calculated dynamically instead of being stored.
+
+This exercise helped me think logically and structure a Python program step by step.
